@@ -38,7 +38,7 @@ You can reference colors based on the primary and accent colors you've chosen, o
            BackgroundColor="{x:Static mat:MaterialColors.PrimaryHueMid}"
            TextColor="{x:Static mat:MaterialColors.PrimaryHueMidForeground}" />
 
-    <Label Text="Primary Dark (500)" FontSize="24" HeightRequest="100"
+    <Label Text="Primary Dark (700)" FontSize="24" HeightRequest="100"
            VerticalTextAlignment="Center" HorizontalTextAlignment="Center"
            BackgroundColor="{x:Static mat:MaterialColors.PrimaryHueDark}"
            TextColor="{x:Static mat:MaterialColors.PrimaryHueDarkForeground}" />
