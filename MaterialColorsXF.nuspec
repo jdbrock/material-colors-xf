@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>MaterialColorsXF</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>Material Design Colors - Xamarin Forms</title>
         <authors>Joe Brock</authors>
         <owners>Joe Brock</owners>
@@ -12,7 +12,7 @@
 
 See GitHub for usage.</description>
         <dependencies>
-            <dependency id="Xamarin.Forms" version="2.3.1.114" />
+            <dependency id="Xamarin.Forms" version="2.3.3.180" />
         </dependencies>
     </metadata>
     <files>
